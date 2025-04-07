@@ -1,0 +1,19 @@
+.modal {
+  background-color: white;
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+  width: 100vw;
+  opacity: 0.4;
+}
+
+.gap-4 {
+  gap: 4rem;
+  display: flex;
+  margin-inline: auto;
+  justify-content: center;
+
+}
