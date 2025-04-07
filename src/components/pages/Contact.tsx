@@ -6,7 +6,7 @@ const Contact: React.FC = () => {
   return (
     <div className="container mx-auto p-4">
       <h1 className="text-3xl font-bold mb-4">Contact Us</h1>
-      <p className="text-lg">Hello from branch 2</p>
+      <p className="text-lg">Hello how are you doing?</p>
       <button onClick={openModal}>Open Modal</button>
     </div>
   );
